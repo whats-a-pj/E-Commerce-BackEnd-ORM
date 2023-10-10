@@ -47,6 +47,10 @@ SOFTWARE.
 
 <details><summary>Credits</summary> 
 
+This is the starter code used:
+
+https://github.com/coding-boot-camp/fantastic-umbrella
+
 These were the websites that I used to help me understand routes and sequelize more:
 
 https://sequelize.org/docs/v6/
