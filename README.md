@@ -6,6 +6,8 @@ This application was built for users to have a simple, easy way to keep track of
 
 Users with coding experience as well as experience with sequelize can clone this repo and update the models to tailor this simple backend to their personal needs.
 
+[Walkthrough of Functional Routes on Insomnia](screencastify-link-here)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -64,5 +66,5 @@ https://expressjs.com/en/guide/routing.html#route-paths
 https://www.youtube.com/playlist?list=PLkqiWyX-_LouvxO1OySOkAqfo1TVedUA8
 
 Had a study session with Brian Whisler, Nicholas Burr, Salvador Mejia, Jenae Luthi and Allison Kidd on 10/9. We talked generally about routing but I ended up getting this working on my own right before we met up.
-<details>
+</details>
 
