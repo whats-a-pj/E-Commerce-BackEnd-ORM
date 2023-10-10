@@ -14,12 +14,20 @@ ProductTag.init(
     },
     product_id: {
       type: DataTypes.INTEGER,
-      //todo add reference to product models id//foreign key
+      allowNull: false,
+      references: {
+        model: 'product',
+        key: 'id',
+      },
     },
     tag_id: {
       type: DataTypes.INTEGER,
-      //todo add reference to tag models id//foreign key
-    }
+      allowNull: false,
+      references: {
+        model: 'tag',
+        key: 'id',
+      },
+    },
   },
   {
     sequelize,
