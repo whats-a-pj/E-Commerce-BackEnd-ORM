@@ -6,7 +6,7 @@ This application was built for users to have a simple, easy way to keep track of
 
 Users with coding experience as well as experience with sequelize can clone this repo and update the models to tailor this simple backend to their personal needs.
 
-[Walkthrough of Functional Routes on Insomnia](screencastify-link-here)
+[Walkthrough of Functional Routes on Insomnia](https://drive.google.com/file/d/1k_7-fAZZfXHFUK5aN3BMlx9oJsHhhcvW/view)
 
 ## Table of Contents
 
